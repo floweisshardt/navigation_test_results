@@ -1,0 +1,1 @@
+[{"distance": 4.809788882126685, "scenario": "collision", "repository": "git@github.com:ipa-fmw/navigation_test_results", "collisions": 0, "robot": "cob3-3", "filename": "06ff4398-1383-4e0a-8edf-a9fa7c72c5b3.bag", "duration": 36.991, "error": "", "localtimeFormatted": "2013-07-09", "rotation": 692.9256263077043, "navigation": "2dnav_ros_tr", "localtime": 1373384461.620914}]
